@@ -21,6 +21,7 @@ Neste projeto, desenvolvi as seguintes habilidades:
  ## Referências
  
  - Clone do NETFLIX em REACTJS para Iniciantes:https://www.youtube.com/watch?v=tBweoUiMsDg
+ - The Movie DB: https://www.themoviedb.org/documentation/api
  - REST test: https://resttesttest.com/
  - JSON Viewer:http://jsonviewer.stack.hu/
  - Material UI: https://mui.com/components/material-icons/?query=navi
