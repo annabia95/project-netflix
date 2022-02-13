@@ -4,9 +4,13 @@ Nesse projeto desenvolvi uma página inspirada na plataforma Netflix! Aqui utili
 
 Veja o exemplo a seguir do layout do projeto!
 
+---
+
 ## Demo
 
 ![Demo](img/video.gif)
+
+---
 
 ## Habilidades Desenvolvidas
 
@@ -17,14 +21,17 @@ Neste projeto, desenvolvi as seguintes habilidades:
  - Trabalhar com funções assíncronas;
  - React (nível iniciante)
  - Media Queries (responsividade)
+ - 
+ ---
  
  ## Referências
+ [Clone do NETFLIX em REACTJS para Iniciantes](https://www.youtube.com/watch?v=tBweoUiMsDg)<br>
+ [The Movie DB](https://www.themoviedb.org/documentation/api)<br>
+ [REST test](https://resttesttest.com/)<br>
+ [JSON Viewer](http://jsonviewer.stack.hu/)<br>
+ [Material UI](https://mui.com/components/material-icons/?query=navi)<br>
  
- [Clone do NETFLIX em REACTJS para Iniciantes](https://www.youtube.com/watch?v=tBweoUiMsDg)
- [The Movie DB](https://www.themoviedb.org/documentation/api)
- [REST test](https://resttesttest.com/)
- [JSON Viewer](http://jsonviewer.stack.hu/)
- [Material UI](https://mui.com/components/material-icons/?query=navi)
+ ---
  
  ## Link para o deploy:
  
