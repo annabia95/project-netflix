@@ -21,7 +21,7 @@ Neste projeto, desenvolvi as seguintes habilidades:
  - Trabalhar com funções assíncronas;
  - React (nível iniciante)
  - Media Queries (responsividade)
- - 
+ 
  ---
  
  ## Referências
