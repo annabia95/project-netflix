@@ -25,3 +25,9 @@ Neste projeto, desenvolvi as seguintes habilidades:
  - REST test: https://resttesttest.com/
  - JSON Viewer:http://jsonviewer.stack.hu/
  - Material UI: https://mui.com/components/material-icons/?query=navi
+ 
+ ## Link para o deploy:
+ 
+ https://project-netflix-nine.vercel.app/
+
+
