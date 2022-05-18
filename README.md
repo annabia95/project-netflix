@@ -12,6 +12,38 @@ Veja o exemplo a seguir do layout do projeto!
 
 ---
 
+## Link para o deploy:
+ 
+https://project-netflix-nine.vercel.app/
+ 
+ 
+## Instalação do projeto localmente:
+ 
+Após cada um dos passos, haverá um exemplo do comando a ser digitado para fazer o que está sendo pedido, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em _annagarcia@id.uff.br_ 
+
+1. Abra o terminal e crie um diretório no local de sua preferência com o comando **mkdir**:
+```javascript
+  mkdir projetos
+```
+
+2. Entre no diretório que acabou de criar e depois clone o projeto:
+```javascript
+  cd projetos
+  git clone git@github.com:annabia95/project-netflix.git
+```
+
+3. Acesse o diretório do projeto e depois utilize o comando **npm i** para instalar todas as dependências necessárias:
+```javascript
+  cd project-netflix
+  npm i
+```
+
+4. Por último, rode o comando **npm start** e acesse o projeto via browser, no caminho `http://localhost:3000/project-netflix`.
+
+```javascript
+  npm start
+```
+
 ## Habilidades Desenvolvidas
 
 Neste projeto, desenvolvi as seguintes habilidades:
@@ -32,9 +64,5 @@ Neste projeto, desenvolvi as seguintes habilidades:
  [Material UI](https://mui.com/components/material-icons/?query=navi)<br>
  
  ---
- 
- ## Link para o deploy:
- 
- https://project-netflix-nine.vercel.app/
 
 
